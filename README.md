@@ -15,7 +15,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Sobre o projeto
 
-O game Resgate é um jogo no qual você controla um helicóptero em meio a uma guerra e você precisa, assim o objetivo é resgatar o máximo de amigos possíveis e acumular o maior número de pontos, os quais são adquiridos destruindo helicópteros e caminhões inimigos.
+O game Resgate é um jogo no qual você controla um helicóptero em meio a uma guerra, assim o objetivo é resgatar o máximo de amigos possíveis e acumular o maior número de pontos, os quais são adquiridos destruindo helicópteros e caminhões inimigos.
 <br/>
 O projeto foi desenvolvido durante o curso [Desenvolvimento de Jogos com HTML5](https://www.udemy.com/course/draft/801158/) com a ajuda do instrutor [Denilson Bonatti](https://github.com/denilsonbonatti).
 
