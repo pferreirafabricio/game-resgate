@@ -9,8 +9,8 @@
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 - [JQuery](https://jquery.com)
-- [JQuery Collision](https://github.com/dsbaars/jquery-collision)
-- [JQuery Hammer](https://hammerjs.github.io/jquery-plugin/)
+- [CollisionJS](https://github.com/dsbaars/jquery-collision)
+- [HammerJS](https://hammerjs.github.io/jquery-plugin/)
 - [Graph API](https://developers.facebook.com/docs/graph-api/)
 
 ## :computer: Sobre o projeto
