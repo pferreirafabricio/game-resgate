@@ -19,7 +19,9 @@ O game Resgate é um jogo no qual você controla um helicóptero, por meio das t
 O projeto foi desenvolvido durante o curso [Desenvolvimento de Jogos com HTML5](https://www.udemy.com/course/draft/801158/) com a ajuda do instrutor [Denilson Bonatti](https://github.com/denilsonbonatti).<br/>
 O mesmo possui 2 versões:
  - [Web](./Resgate/Normal%20Version)
- - [Mobile](./Resgate/Mobile%20Version)
+ - [Mobile](./Resgate/Mobile%20Version) 
+
+ <br/>-> [CERTIFICADO](https://www.udemy.com/certificate/UC-RCVQ18LV/)
 
 ## :memo: Licença
 
