@@ -5,6 +5,8 @@
 <img src="/projectImages/tela-jogo.png" width="auto" height="500px"></img>
 <img src="/projectImages/tela-gameover.png" width="auto" height="500px"></img>
 
+> Jogue em: https://pferreirafabricio.github.io/game-resgate/
+
 ## :man_technologist: Tecnologias usadas
 
 O projeto foi desenvolvido com as seguintes tecnologias:
